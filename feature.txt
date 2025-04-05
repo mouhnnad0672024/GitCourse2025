@@ -4,7 +4,7 @@ code3 ... feature
 
 
 code4 after merge ... feature
-code5 after merge ... feature'
+deleted in new branch 3
 
 
 
@@ -21,3 +21,4 @@ I will add some code in new Branch here !
 I added another change from github
 ---------------------------------------
 code from new branch 2 here !
+-------------------------------------
