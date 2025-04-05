@@ -4,4 +4,8 @@ code3 ... feature
 
 
 code4 after merge ... feature
-code5 after merge ... feature
+code5 after merge ... feature'
+
+
+
+code 5 in feature 2  branch
