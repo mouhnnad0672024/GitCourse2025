@@ -19,3 +19,5 @@ code5 after merge ... feature
 I will add some code in new Branch here !
 
 I added another change from github
+---------------------------------------
+code from new branch 2 here !
