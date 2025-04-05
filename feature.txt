@@ -1,3 +1,6 @@
 code1 ...  feature 
 code2 ...  feature 
 code3 ... feature
+
+
+code4 after merge ... feature
